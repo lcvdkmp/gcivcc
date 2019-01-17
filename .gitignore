@@ -1,0 +1,13 @@
+bin/
+dist/
+framework/doc/
+.*.d
+*.tar
+*.tar.gz
+*.tgz
+*.o
+*.log
+*.pdf
+*.aux
+*.gz
+
