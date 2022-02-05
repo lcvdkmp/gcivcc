@@ -20,3 +20,7 @@ Now assuming all went well you will now have downloaded all the stuff needed to 
 The cabal build have deposited an executable in the directory dist/build/gcivcc
 
 This is now the build compiler which can be invoked and used to create marvelous programs...
+
+## Authors
+Bjarne de Jong & Luca van der Kamp
+
